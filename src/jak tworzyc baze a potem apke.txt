@@ -1,0 +1,5 @@
+wpierw tworze tabele user - i daje cake bake all user
+potem courses i courses user i daje cake bake tylko curses
+potem dodaje answers, questions, test, test_questons, user_answers tabele i daje cake bake wszystkie procz test_questions
+dodac tabele subject i course_subject i upiec subject a potem course znowu!
+dodac grades polaczyc i upiec i git
